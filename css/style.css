@@ -4,7 +4,7 @@ body{
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background-image: linear-gradient(to bottom,#04124d, #447cb2);
+    background-image: linear-gradient(to bottom, #008000 , #447cb2);
 }
 
 .container{
